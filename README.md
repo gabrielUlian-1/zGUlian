@@ -8,25 +8,30 @@ Atualmente participo da Mentoria de Testes de Software 2.0 com Júlio de Lima, o
 
 ## 🚀 Tecnologias e Ferramentas
 
-Qualidade e Testes
+### 🧪 Qualidade e Testes
+- Testes de Software
+- Testes de API REST com Postman
+- Cypress
+- Selenium WebDriver
 
--Testes de Software
--Testes de API (REST) e Postman
--Cypress
--Selenium WebDriver
+### 💻 Linguagens e Banco de Dados
+- JavaScript
+- SQL
+- MySQL
+- MongoDB
 
-Linguagens e Dados
+### 🛠️ Processos e Ferramentas
+- Jira
+- Zephyr Scale
+- Git e GitHub
+- Scrum
+- Kanban
 
--JavaScript
--SQL, MySQL e MongoDB
-
-Processos e Ferramentas
-
--Jira e Zephyr Scale
--Git e GitHub
--Scrum e Kanban
--IA aplicada à qualidade
--IA Generativa aplicada à Engenharia de Qualidade (ChatGPT, Codex e Claude Code)
+### 🤖 Inteligência Artificial aplicada à Qualidade
+- ChatGPT
+- Codex
+- Claude Code
+- IA Generativa aplicada à Engenharia de Qualidade
 
 ## 📌 Objetivo
 
