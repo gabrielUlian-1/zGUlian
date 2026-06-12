@@ -28,10 +28,7 @@ Atualmente participo da Mentoria de Testes de Software 2.0 com Júlio de Lima, o
 - Kanban
 
 ### 🤖 Inteligência Artificial aplicada à Qualidade
-- ChatGPT
-- Codex
-- Claude Code
-- IA Generativa aplicada à Engenharia de Qualidade
+- IA Generativa aplicada à Engenharia de Qualidade (ChatGPT, Codex e Claude Code)
 
 ## 📌 Objetivo
 
