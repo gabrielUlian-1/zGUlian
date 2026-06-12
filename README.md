@@ -1,5 +1,3 @@
-# 👩🏻‍💻 Gabriel Ulian
-
 **`Engenheiro de Qualidade de Software`**
 
 # Olá, eu sou Gabriel Ulian 👋
