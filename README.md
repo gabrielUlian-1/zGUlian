@@ -2,7 +2,35 @@
 
 **`Engenheiro de Qualidade de Software`**
 
-Me chamo Gabriel Ulian, tenho 28 anos e sou de Mauá - SP. Concluí o ensino no Visconde de Mauá, Atualmente estou cursando Engenharia de Software na Descomplica. Sou apaixonada por tecnologia, Estou em Transição de Carreira para contato - Meu Linkedin "[Gabriel Ulian](https://www.linkedin.com/in/gabriel-ulian-qa/)", Perfil do "[Instagram](https://www.instagram.com/g.ulnn/)".
+# Olá, eu sou Gabriel Ulian 👋
+
+🎓 Estudante de Engenharia de Software pela Descomplica
+
+💻 Quality Assurance | Testes de Software | Automação de Testes
+
+Atualmente participo da Mentoria de Testes de Software 2.0 com Júlio de Lima, aprofundando conhecimentos em qualidade de software, testes manuais e automatizados, testes de APIs, banco de dados e automação.
+
+## 🚀 Tecnologias e Ferramentas
+
+- Testes de Software
+- Cypress
+- Selenium WebDriver
+- API REST e Postman
+- JavaScript
+- SQL, MySQL e MongoDB
+- Jira e Zephyr Scale
+- Git e GitHub
+- Scrum e Kanban
+- Inteligência Artificial aplicada a Testes (ChatGPT, Codex e Claude Code)
+
+## 📌 Objetivo
+
+Minha missão é atuar como QA Engineer, contribuindo para o desenvolvimento de produtos com qualidade, utilizando uma visão analítica, pensamento crítico e melhoria contínua.
+
+## 📫 Contato
+
+LinkedIn: linkedin.com/in/gabriel-ulian-qa  
+E-mail: gabrielulian55@gmail.com
 
 <p align="left">
     <a href="https://github.com/zGUlian?tab=repositories&sort=stargazers">
