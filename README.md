@@ -1,5 +1,3 @@
-**`Engenheiro de Qualidade de Software`**
-
 # Olá, eu sou Gabriel Ulian 👋
 
 🎓 Estudante de Engenharia de Software pela Descomplica
