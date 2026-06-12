@@ -4,29 +4,35 @@
 
 💻 Quality Assurance | Testes de Software | Automação de Testes
 
-Atualmente participo da Mentoria de Testes de Software 2.0 com Júlio de Lima, aprofundando conhecimentos em qualidade de software, testes manuais e automatizados, testes de APIs, banco de dados e automação.
+Atualmente participo da Mentoria de Testes de Software 2.0 com Júlio de Lima, onde desenvolvo uma visão estratégica sobre qualidade de software, aprofundando conhecimentos em testes manuais e automatizados, testes de API, bancos de dados, automação e boas práticas de Engenharia de Qualidade.
 
 ## 🚀 Tecnologias e Ferramentas
 
-- Testes de Software
-- Cypress
-- Selenium WebDriver
-- API REST e Postman
-- JavaScript
-- SQL, MySQL e MongoDB
-- Jira e Zephyr Scale
-- Git e GitHub
-- Scrum e Kanban
-- Inteligência Artificial aplicada a Testes (ChatGPT, Codex e Claude Code)
+Qualidade e Testes
+Testes de Software
+Testes de API (REST) e Postman
+Cypress
+Selenium WebDriver
+
+Linguagens e Dados
+JavaScript
+SQL, MySQL e MongoDB
+
+Processos e Ferramentas
+Jira e Zephyr Scale
+Git e GitHub
+Scrum e Kanban
+IA aplicada à qualidade
+IA Generativa aplicada à Engenharia de Qualidade (ChatGPT, Codex e Claude Code)
 
 ## 📌 Objetivo
 
-Minha missão é atuar como QA Engineer, contribuindo para o desenvolvimento de produtos com qualidade, utilizando uma visão analítica, pensamento crítico e melhoria contínua.
+Meu objetivo é construir minha carreira como QA Engineer, contribuindo para o desenvolvimento de produtos com qualidade por meio de pensamento analítico, melhoria contínua e colaboração com equipes de tecnologia.
 
 ## 📫 Contato
 
-LinkedIn: linkedin.com/in/gabriel-ulian-qa  
-E-mail: gabrielulian55@gmail.com
+LinkedIn: [Gabriel Ulian](https://linkedin.com/in/gabriel-ulian-qa) 
+E-mail: [gabrielulian55@gmail.com](mailto:gabrielulian55@gmail.com)
 
 <p align="left">
     <a href="https://github.com/zGUlian?tab=repositories&sort=stargazers">
